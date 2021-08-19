@@ -1,0 +1,10 @@
+{
+    "commandPlacements": {
+        "placement-2dfa4eb9-9e61-4336-ba6e-3dc633671f64": {
+            "id": "Awp0OpenInNewWindow",
+            "uiAnchor": "aw_contextMenu2",
+            "priority": 5001,
+            "parentGroupId": null
+        }
+    }
+}
