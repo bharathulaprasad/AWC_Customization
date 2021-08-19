@@ -78,6 +78,7 @@ When you are done making your changes in the UI using Active Architect and you w
 All of the changes that were made with Command Builder, Panel Builder, and so on, are stored in the declarative artifact service, but any time Active Workspace (the artifact service specifically) is rebuilt, that history and all changes are cleared. Think of exporting back to source as similar to checking in code to source control.
 
 npm run exportToSrc <Gateway Client URL> -- --moduleName=<name of module>
+
 The Gateway Client URL defaults to http://localhost:3000, if not provided.
 
 The name of module is the name of the existing module in which the changes should be stored. It will not create one. You can create a custom module using the generateModule script.
