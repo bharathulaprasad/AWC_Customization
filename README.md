@@ -44,7 +44,7 @@ Requires following components installed in Teamcenter 13.2 and Active workspace 
 5. Active workspace Gateway
 6. Active workspace Client
 7. Active Architect Core
-
+8. Active Architect -> UI Builder
 
 Activate developer mode by inserting ?dev in the URL.
 
